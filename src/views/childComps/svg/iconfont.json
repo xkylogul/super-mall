@@ -1,0 +1,86 @@
+{
+  "id": "1695935",
+  "name": "super-mall",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "339469",
+      "name": "会员卡",
+      "font_class": "huiyuanqia",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "650811",
+      "name": "余额",
+      "font_class": "yue",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "700836",
+      "name": "积分",
+      "font_class": "jifen",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "2849723",
+      "name": "优惠",
+      "font_class": "youhui",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "3889353",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "7440258",
+      "name": "消息",
+      "font_class": "xiaoxi",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "8328299",
+      "name": "客服",
+      "font_class": "kefu",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "8629240",
+      "name": "店铺",
+      "font_class": "dianpu",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "10470864",
+      "name": "积分商城",
+      "font_class": "jfsc",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "12195160",
+      "name": "app",
+      "font_class": "app",
+      "unicode": "ec9d",
+      "unicode_decimal": 60573
+    },
+    {
+      "icon_id": "12344845",
+      "name": "收藏",
+      "font_class": "shoucang",
+      "unicode": "e68e",
+      "unicode_decimal": 59022
+    }
+  ]
+}
